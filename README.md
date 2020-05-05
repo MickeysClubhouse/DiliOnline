@@ -2,11 +2,14 @@
 Dili Online Food Ordering System
 
 
-# 前端
-调试方法：
--
+## 前端
+
+###调试方法：
+
 clone项目后，在/loginModule目录下打开cmd
-运行 cnpm run dev
+
+运行 `cnpm run dev`
+
 应用默认运行在localhost:8080
 
 
