@@ -4,7 +4,7 @@ Dili Online Food Ordering System
 
 ## 前端
 
-###调试方法：
+### 调试方法：
 
 clone项目后，在/loginModule目录下打开cmd
 
@@ -12,6 +12,7 @@ clone项目后，在/loginModule目录下打开cmd
 
 应用默认运行在localhost:8080
 
+### 进度
 
 使用vue-vueRouter
 
